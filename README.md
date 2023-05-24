@@ -1,6 +1,7 @@
 # AWS-Solution-Architect-Exam---Associate
 
 Course Outline
+
 CHAPTER 1: Introduction
 
 CHAPTER 2: AWS Fundamentals
